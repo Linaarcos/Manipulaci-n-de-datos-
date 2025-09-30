@@ -24,8 +24,3 @@ Los proyectos incluyen **preprocesamiento de datos, limpieza, análisis estadís
 - Analizar y detectar patrones en grandes volúmenes de información.  
 - Visualizar resultados de forma clara y profesional.  
 - Desarrollar un flujo de trabajo reproducible y documentado.
-
-## Uso
-1. Clonar el repositorio:  
-```bash
-git clone https://github.com/Linaarcos/NOMBRE_DEL_REPOSITORIO.git
